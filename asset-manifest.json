@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LeadZenAssignment/static/css/main.8e3f8971.css",
+    "main.js": "/LeadZenAssignment/static/js/main.9ff4a55f.js",
+    "static/js/787.635aedaa.chunk.js": "/LeadZenAssignment/static/js/787.635aedaa.chunk.js",
+    "index.html": "/LeadZenAssignment/index.html",
+    "main.8e3f8971.css.map": "/LeadZenAssignment/static/css/main.8e3f8971.css.map",
+    "main.9ff4a55f.js.map": "/LeadZenAssignment/static/js/main.9ff4a55f.js.map",
+    "787.635aedaa.chunk.js.map": "/LeadZenAssignment/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e3f8971.css",
+    "static/js/main.9ff4a55f.js"
+  ]
+}

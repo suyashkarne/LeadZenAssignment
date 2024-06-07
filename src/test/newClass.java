@@ -8,6 +8,7 @@ public class newClass {
 		System.out.print("Hello21");
 		
 		System.out.print("Hello21");
+		a
 		
 	}
 

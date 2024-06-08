@@ -6,11 +6,8 @@ public class newClass {
 		// TODO Auto-generated method stub
 		System.out.print("Hello11");
 		System.out.print("Hello21");
-<<<<<<< HEAD
 		pqr
-=======
 		asd
->>>>>>> branch 'master' of https://github.com/suyashkarne/Test.git
 
 	}
 

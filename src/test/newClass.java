@@ -6,7 +6,7 @@ public class newClass {
 		// TODO Auto-generated method stub
 		System.out.print("Hello11");
 		System.out.print("Hello21");
-		
+		pqr
 
 	}
 
